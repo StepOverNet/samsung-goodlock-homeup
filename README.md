@@ -1,4 +1,4 @@
-# Brief Description
+# Description
 - The good people over at <b>Good Lock Labs</b> have created multiple apps that allow for more customization for the <b>One UI</b> users. One of those apps is called <b>Home Up</b>, You have options from Home Screen grid to Task Manager layout type and a bunch of other stuff. I wanted the option of going above limits until the very point before you cause chaos, And so this tutorial will show you how you can do that very thing.
 # Heads Up
 - <b>I</b> am not responsible for any damages done to your device from doing this tutorial.
