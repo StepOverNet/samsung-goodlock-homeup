@@ -26,8 +26,8 @@ getContentResolver().call(Uri.parse("content://com.samsung.android.app.homestar.
 ```
 SharedPreferences.Editor editor = getApplicationContext().getSharedPreferences("com.samsung.android.app.homestar_preferences", 0).edit();
 editor.putBoolean("home_widget_resize", true);
-editor.putInt("home_grid_num_cols", popup_picker_a.getValue());
-editor.putInt("home_grid_num_rows", popup_picker_b.getValue());
+editor.putInt("home_grid_num_cols", 0);
+editor.putInt("home_grid_num_rows", 0);
 editor.apply();
 getContentResolver().notifyChange(Uri.parse("content://com.samsung.android.app.homestar.provider/setting"), null);
 ```
